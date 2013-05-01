@@ -1,3 +1,4 @@
+name             "percona-install"
 maintainer       "CustomInk, LLC"
 maintainer_email "nharvey@customink.com"
 license          "Apache 2.0"
